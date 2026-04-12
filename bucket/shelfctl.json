@@ -1,0 +1,22 @@
+{
+    "version": "0.4.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/blackwell-systems/shelfctl/releases/download/v0.4.6/shelfctl_0.4.6_Windows_x86_64.zip",
+            "bin": [
+                "shelfctl.exe"
+            ],
+            "hash": "1cfae2ac14e4cb833e0416dbd2674c0a972e5e7b08deedd626464786ee61d2e3"
+        },
+        "arm64": {
+            "url": "https://github.com/blackwell-systems/shelfctl/releases/download/v0.4.6/shelfctl_0.4.6_Windows_arm64.zip",
+            "bin": [
+                "shelfctl.exe"
+            ],
+            "hash": "0535261412dd7c30cf591e314f92d3ee4d42637583c139842b848c4a524973cf"
+        }
+    },
+    "homepage": "https://github.com/blackwell-systems/shelfctl",
+    "license": "MIT",
+    "description": "Personal library manager for PDFs using GitHub Release assets"
+}
