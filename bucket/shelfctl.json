@@ -1,19 +1,19 @@
 {
-    "version": "0.4.6",
+    "version": "0.4.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/blackwell-systems/shelfctl/releases/download/v0.4.6/shelfctl_0.4.6_Windows_x86_64.zip",
+            "url": "https://github.com/blackwell-systems/shelfctl/releases/download/v0.4.7/shelfctl_0.4.7_Windows_x86_64.zip",
             "bin": [
                 "shelfctl.exe"
             ],
-            "hash": "1cfae2ac14e4cb833e0416dbd2674c0a972e5e7b08deedd626464786ee61d2e3"
+            "hash": "37126cb59179b1f23662d40b15bb64df7c50699d0f09bce16d1bd2db2ded1b66"
         },
         "arm64": {
-            "url": "https://github.com/blackwell-systems/shelfctl/releases/download/v0.4.6/shelfctl_0.4.6_Windows_arm64.zip",
+            "url": "https://github.com/blackwell-systems/shelfctl/releases/download/v0.4.7/shelfctl_0.4.7_Windows_arm64.zip",
             "bin": [
                 "shelfctl.exe"
             ],
-            "hash": "0535261412dd7c30cf591e314f92d3ee4d42637583c139842b848c4a524973cf"
+            "hash": "51abb6d980c3b366e01d58e63cd712b10e00e38a2b74b913d1ef427cb72cf5c6"
         }
     },
     "homepage": "https://github.com/blackwell-systems/shelfctl",
