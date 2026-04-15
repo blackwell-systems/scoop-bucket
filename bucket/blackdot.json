@@ -1,19 +1,19 @@
 {
-    "version": "4.0.0-rc6",
+    "version": "4.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/blackwell-systems/blackdot/releases/download/v4.0.0-rc6/blackdot_4.0.0-rc6_Windows_x86_64.zip",
+            "url": "https://github.com/blackwell-systems/blackdot/releases/download/v4.0.0/blackdot_4.0.0_Windows_x86_64.zip",
             "bin": [
                 "blackdot.exe"
             ],
-            "hash": "43b45395b04dd40871c8bfa891db40b6ea8a7aabb3fd5f2b7567b9cd50a08047"
+            "hash": "a13d6a0458e46265e3bc649b576a70d2ca2a1ddba9897c99e12a0f0bdf18c5e3"
         },
         "arm64": {
-            "url": "https://github.com/blackwell-systems/blackdot/releases/download/v4.0.0-rc6/blackdot_4.0.0-rc6_Windows_arm64.zip",
+            "url": "https://github.com/blackwell-systems/blackdot/releases/download/v4.0.0/blackdot_4.0.0_Windows_arm64.zip",
             "bin": [
                 "blackdot.exe"
             ],
-            "hash": "92510b3dae3416670b82ed1fe20f749288b07387f136e0cb3457a01f0b58ca1f"
+            "hash": "f5ffb5ad8282062509786a2c69889cf872767f0d0cd55817cb76626b591898bc"
         }
     },
     "homepage": "https://github.com/blackwell-systems/blackdot",
