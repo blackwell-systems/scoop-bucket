@@ -1,0 +1,22 @@
+{
+    "version": "0.2.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/blackwell-systems/mcp-assert/releases/download/v0.2.1/mcp-assert_0.2.1_windows_amd64.zip",
+            "bin": [
+                "mcp-assert.exe"
+            ],
+            "hash": "2b2eef4d9aadc0c684f773a8a1b9b53d7a8aceee319053a1913889d70d33026b"
+        },
+        "arm64": {
+            "url": "https://github.com/blackwell-systems/mcp-assert/releases/download/v0.2.1/mcp-assert_0.2.1_windows_arm64.zip",
+            "bin": [
+                "mcp-assert.exe"
+            ],
+            "hash": "9ebc1e76f89b7da8e75e928f2d459c7e6acc5e04873bab6164e8c3a11dd68042"
+        }
+    },
+    "homepage": "https://github.com/blackwell-systems/mcp-assert",
+    "license": "MIT",
+    "description": "Deterministic correctness testing for MCP servers"
+}
