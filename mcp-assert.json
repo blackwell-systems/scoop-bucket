@@ -1,19 +1,19 @@
 {
-    "version": "0.2.2",
+    "version": "0.2.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/blackwell-systems/mcp-assert/releases/download/v0.2.2/mcp-assert_0.2.2_windows_amd64.zip",
+            "url": "https://github.com/blackwell-systems/mcp-assert/releases/download/v0.2.3/mcp-assert_0.2.3_windows_amd64.zip",
             "bin": [
                 "mcp-assert.exe"
             ],
-            "hash": "3b53a45f664d8f4cf1b488b13a5bf9bb102a1a09f903e12715e436d8ed1bdd4d"
+            "hash": "29b622c96acaa7777f9f9b7856174e53af5446db7e6b640bab5dab4fdd7242c7"
         },
         "arm64": {
-            "url": "https://github.com/blackwell-systems/mcp-assert/releases/download/v0.2.2/mcp-assert_0.2.2_windows_arm64.zip",
+            "url": "https://github.com/blackwell-systems/mcp-assert/releases/download/v0.2.3/mcp-assert_0.2.3_windows_arm64.zip",
             "bin": [
                 "mcp-assert.exe"
             ],
-            "hash": "c4364f5b4b8c2fa8aa8ee2e25c4e8d0d737592c8ff89bd7c5701c2f848425233"
+            "hash": "5ca44c1ce40448991f43c1f254acb239a044f1cc1d96df8bcc9337d80c2875e0"
         }
     },
     "homepage": "https://github.com/blackwell-systems/mcp-assert",
