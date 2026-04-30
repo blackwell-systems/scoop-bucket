@@ -6,14 +6,14 @@
             "bin": [
                 "mcp-assert.exe"
             ],
-            "hash": "bb2ef2f9da0fefcf88b46388c28ddf43a7a8a13a4b371aef2209c882ed83ae00"
+            "hash": "dbad1e7717b43d58bb291677bed1ca27817da0f71fe3d9b727b5cc9c664aeb38"
         },
         "arm64": {
             "url": "https://github.com/blackwell-systems/mcp-assert/releases/download/v0.7.2/mcp-assert_0.7.2_windows_arm64.zip",
             "bin": [
                 "mcp-assert.exe"
             ],
-            "hash": "cfeaacb1afc71c3659f06305b3ea00722a4ff88dbca364cdfaaf995b4fd85716"
+            "hash": "9440ac6d42609acfa2cec15e1736d6b1839b59b73933d3cfdac937e2fcb70a59"
         }
     },
     "homepage": "https://github.com/blackwell-systems/mcp-assert",
